@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
         - name: wisecow-cont1
-          image: abhitesh003/wisecow:v1
+          image: abhitesh003/wisecow:version1
           ports:
             - containerPort: 4499
           volumeMounts:
